@@ -7,7 +7,7 @@
    |\_________\ \__\   \ \__\
    \|_________|\|__|    \|__|
 
-:: ${spring.application.name} :: Created by EalenXie , ${spring.profiles.active} Running
+:: ${spring.application.name} :: ${spring.profiles.active} Running
 :: SpringBoot Version :: ${spring-boot.version}
 :: Server port :: ${server.port:8080}
 ::
