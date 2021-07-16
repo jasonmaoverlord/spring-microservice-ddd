@@ -11,3 +11,7 @@ mybatis-plus:
     db-config:
       update-strategy: ignored
   mapper-locations: classpath:/repository/**.xml
+
+spring:
+  profiles:
+    active: dev
