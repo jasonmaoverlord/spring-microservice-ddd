@@ -2,8 +2,7 @@
 ======================
 
 #### 前言
-
-本人此博文见识短浅，样例做法并不足取，已不再维护相关内容，请诸位移步。<b>笔者也从不认为Eric Evans书中所写概念都完全正确且合乎现实软件开发</b>
+该项目由https://github.com/EalenXie/spring-microservice-ddd.git fork而来,加了一点自己的改动
 
 这是一个基本的微服务 + DDD演示例子(待完善)，基于 Spring Boot 2.2.4.RELEASE
 
